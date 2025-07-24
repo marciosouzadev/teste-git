@@ -1,0 +1,5 @@
+.titulo {
+    color: blue;          /* cor do texto */
+    font-size: 36px;      /* tamanho do texto */
+    font-weight: bold;    /* negrito (opcional) */
+}
